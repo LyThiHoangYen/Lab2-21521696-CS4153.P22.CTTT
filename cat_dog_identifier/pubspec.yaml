@@ -25,3 +25,4 @@ flutter:
     - assets/images/cat_dog.png
     - assets/tflite/model.tflite
     - assets/tflite/labels.txt
+
